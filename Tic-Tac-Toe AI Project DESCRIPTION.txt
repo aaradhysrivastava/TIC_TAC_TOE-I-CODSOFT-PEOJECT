@@ -1,0 +1,26 @@
+Tic-Tac-Toe AI Project
+
+This project implements a classic Tic-Tac-Toe game in Python with a graphical interface using Tkinter.
+
+Features:
+- Play against an AI that uses the Minimax algorithm with Alpha-Beta pruning to be unbeatable.
+- Three difficulty levels: Easy, Medium, and Hard.
+- Sound effects play on each move (Windows only by default).
+- A game timer displays how long the current game has been running.
+- The game resets automatically after win, lose, or tie.
+
+Technologies and Concepts Used:
+- Python 3 — main programming language.
+- Tkinter — for creating the graphical user interface (GUI).
+- Minimax Algorithm — for AI decision-making in Tic-Tac-Toe.
+- Alpha-Beta Pruning — optimization of Minimax to improve AI efficiency.
+- Winsound — for playing simple sound effects on Windows.
+- Pygame (optional) — for cross-platform sound support.
+- Game Timer — implemented with `time` and Tkinter’s `after` method to show elapsed game time.
+- Messagebox — Tkinter pop-ups to display game results.
+- Random module — used for AI moves on easier difficulty levels.
+
+To run the project, use Python 3 and run the `tic_tac_toe_ai.py` script.
+Optionally, install `pygame` for cross-platform sound support.
+
+Enjoy the game!
