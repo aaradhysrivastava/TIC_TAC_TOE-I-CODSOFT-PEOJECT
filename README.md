@@ -54,7 +54,7 @@ TIC_TAC_TOE_AI_PROJECT/
 </pre>
 
 <h2>👨‍💻 Author</h2>
-<p>Made with ❤️ in Python by <strong>Aaradhy Srivastava</strong>.</p>
+<p>Made  in Python by <strong>Aaradhy Srivastava</strong>.</p>
 
 </body>
 </html>
